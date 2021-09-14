@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>여러 가지 input 타</title>
+</head>
+<body>
+<form name = "frmInput" method = "get" action = "input">
+	아이
+</form>
+</body>
+</html>
