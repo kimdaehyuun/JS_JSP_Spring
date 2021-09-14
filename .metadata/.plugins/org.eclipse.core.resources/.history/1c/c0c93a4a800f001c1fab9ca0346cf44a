@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="webEx">
-        <property name="context-root" value="webEx"/>
-        <property name="java-output-path" value="/webEx/build/classes"/>
-    </wb-module>
-</project-modules>
