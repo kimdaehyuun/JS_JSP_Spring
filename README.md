@@ -1,2 +1,2 @@
 # eclipse_workspace
- JSP, Spring 실습
+ JavaScript, JSP, Spring 실습
