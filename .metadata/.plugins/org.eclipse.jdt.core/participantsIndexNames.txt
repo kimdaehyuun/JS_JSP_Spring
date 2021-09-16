@@ -1,5 +1,9 @@
 INDEX VERSION 1.131
-/Users/kdh/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4215115238.index
-/webEx/src
 /Users/kdh/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1222323461.index
 /springEx/src/main/java
+/Users/kdh/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/601924483.index
+/mavenEx3/src\main\java
+/Users/kdh/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4215115238.index
+/webEx/src
+/Users/kdh/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1695481949.index
+/mavenEx/src/main/java
